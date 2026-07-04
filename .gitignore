@@ -1,0 +1,15 @@
+src/
+node_modules/
+out/
+out-build/
+*.ts
+*.js
+*.map
+!README.md
+!RELEASE_NOTES.md
+!.gitignore
+*.exe
+*.zip
+*.tmp
+*.log
+Thumbs.db
